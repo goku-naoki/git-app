@@ -1,3 +1,4 @@
 class User < ApplicationRecord
-  ddddd
+  add_column :users, :nickname, :string
+
 end
