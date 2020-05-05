@@ -3,6 +3,6 @@ class User < ApplicationRecord
 
 
 
-  
+  満極
 
 end
